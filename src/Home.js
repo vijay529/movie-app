@@ -1,5 +1,4 @@
-import React, {useContext} from 'react'
-import { AppContext, useGlobalContext } from './context'
+import React from 'react'
 import Search from './Search'
 import Movies from './Movies'
 
